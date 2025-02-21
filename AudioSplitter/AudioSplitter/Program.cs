@@ -13,6 +13,8 @@ class Program
     //4. En la terminal de este proyecto instalar demucs -> pip install htdemucs
     //5. Listo :) Tomen en cuenta que algunas canciones pueden durar hasta 5 min en extraerse, una cancion de 2.48s puede durar aprox 90s 
 
+
+    //Esto es solamente un comentario inutil
     static void Main()
     {
         List<string> files = SeparateChannels("eltoque.mp4");
