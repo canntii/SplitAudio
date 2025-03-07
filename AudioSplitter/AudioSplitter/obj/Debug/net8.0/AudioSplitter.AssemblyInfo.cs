@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AudioSplitter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82374b947d319e8ee190bba05697ef1630585b79")]
 [assembly: System.Reflection.AssemblyProductAttribute("AudioSplitter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AudioSplitter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

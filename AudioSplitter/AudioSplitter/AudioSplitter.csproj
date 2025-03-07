@@ -11,8 +11,4 @@
     <PackageReference Include="NAudio.Core" Version="2.2.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Output\htdemucs\" />
-  </ItemGroup>
-
 </Project>
