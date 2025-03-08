@@ -14,8 +14,8 @@ class Program
     //5. Listo :) Tomen en cuenta que algunas canciones pueden durar hasta 5 min en extraerse, una cancion de 2.48s puede durar aprox 90s 
 
 
-    //Esto es solamente un comentario inutil
-    //Esto es otro comentario inutil
+    //Hice esto como en 30 minutos, asi que no se quejen del codigo xd
+    
     static void Main()
     {
         List<string> files = SeparateChannels("Sequence01.mp4");
