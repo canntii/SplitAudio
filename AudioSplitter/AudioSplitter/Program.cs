@@ -18,7 +18,7 @@ class Program
     //Esto es otro comentario inutil
     static void Main()
     {
-        List<string> files = SeparateChannels("eltoque.mp4");
+        List<string> files = SeparateChannels("Sequence01.mp4");
         MergeTracks(files[0], files[1], files[2], files[4]);
     }
 
