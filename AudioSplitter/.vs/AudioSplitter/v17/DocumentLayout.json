@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\SplitAudio\\AudioSplitter\\",
+  "WorkspaceRootPath": "C:\\Users\\bryan\\source\\repos\\AudioSplitter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2AA3AC7-5324-44D6-9C9A-6AC9073FC62C}|AudioSplitter\\AudioSplitter.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\splitaudio\\audiosplitter\\audiosplitter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2AA3AC7-5324-44D6-9C9A-6AC9073FC62C}|AudioSplitter\\AudioSplitter.csproj|c:\\users\\bryan\\source\\repos\\audiosplitter\\audiosplitter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2AA3AC7-5324-44D6-9C9A-6AC9073FC62C}|AudioSplitter\\AudioSplitter.csproj|solutionrelative:audiosplitter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2AA3AC7-5324-44D6-9C9A-6AC9073FC62C}|AudioSplitter\\AudioSplitter.csproj|c:\\users\\bryan\\onedrive\\documentos\\github\\splitaudio\\audiosplitter\\audiosplitter\\audiosplitter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B2AA3AC7-5324-44D6-9C9A-6AC9073FC62C}|AudioSplitter\\AudioSplitter.csproj|c:\\users\\bryan\\source\\repos\\audiosplitter\\audiosplitter\\audiosplitter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B2AA3AC7-5324-44D6-9C9A-6AC9073FC62C}|AudioSplitter\\AudioSplitter.csproj|solutionrelative:audiosplitter\\audiosplitter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 359,
+          "DockedWidth": 222,
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AudioSplitter.csproj",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\SplitAudio\\AudioSplitter\\AudioSplitter\\AudioSplitter.csproj",
+              "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\AudioSplitter\\AudioSplitter\\AudioSplitter.csproj",
               "RelativeDocumentMoniker": "AudioSplitter\\AudioSplitter.csproj",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\SplitAudio\\AudioSplitter\\AudioSplitter\\AudioSplitter.csproj",
+              "ToolTip": "C:\\Users\\bryan\\source\\repos\\AudioSplitter\\AudioSplitter\\AudioSplitter.csproj",
               "RelativeToolTip": "AudioSplitter\\AudioSplitter.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAwA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-10T15:28:42.12Z"
             },
@@ -36,32 +36,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\SplitAudio\\AudioSplitter\\AudioSplitter\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\AudioSplitter\\AudioSplitter\\Program.cs",
               "RelativeDocumentMoniker": "AudioSplitter\\Program.cs",
-              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\SplitAudio\\AudioSplitter\\AudioSplitter\\Program.cs",
+              "ToolTip": "C:\\Users\\bryan\\source\\repos\\AudioSplitter\\AudioSplitter\\Program.cs",
               "RelativeToolTip": "AudioSplitter\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T15:25:55.994Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedHeight": 41,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

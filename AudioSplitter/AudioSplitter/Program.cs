@@ -10,15 +10,15 @@ class Program
     //1. Tener python instalado 
     //2. En la terminal de este proyecto instalar pytorch -> pip install torch torchvision torchaudio
     //3. Instalar ffmpeg -> https://ffmpeg.org/download.html
-    //4. En la terminal de este proyecto instalar demucs -> pip install demucs
+    //4. En la terminal de este proyecto instalar demucs -> pip install htdemucs
     //5. Listo :) Tomen en cuenta que algunas canciones pueden durar hasta 5 min en extraerse, una cancion de 2.48s puede durar aprox 90s 
 
-    //Nota: Hice este código en menos de una hora así que no pienso optimizarlo XD
-    //El proyecto acepta tanto video como audio
+
+    //Esto es solamente un comentario inutil
+    //Esto es otro comentario inutil
     static void Main()
     {
-        List<string> files = SeparateChannels("Nombre de la cancion o el video.mp4"); //El archivo tiene que estar dentro de este proyecto
-        
+        List<string> files = SeparateChannels("eltoque.mp4");
         MergeTracks(files[0], files[1], files[2], files[4]);
     }
 
